@@ -1,3 +1,5 @@
+# My Blog
+
 A minimalist blog built with Next.js, Tailwind CSS for writing and managing blog posts with a clean and modern UI.
 
 ## 🚀 Features
@@ -34,22 +36,31 @@ Copy
 Edit
 git clone https://github.com/yourusername/my-minimal-blog.git
 cd my-minimal-blog
+```
+
 2️⃣ Install Dependencies
+```js
 sh
 Copy
 Edit
 npm install  # or yarn install
+```
+
 3️⃣ Run the Development Server
+```js
 sh
 Copy
 Edit
 npm run dev  # or yarn dev
+```
 Visit http://localhost:3000 in your browser.
+
 
 ## 📝 Writing Blog Posts
 Create a new .mdx file in /content/
 Use Markdown & React components to format your post
 Example:
+```js
 md
 Copy
 Edit
@@ -58,12 +69,14 @@ title: "My First Blog Post"
 date: "2025-02-10"
 description: "An introduction to my minimal blog."
 ---
+```
 # Welcome to My Blog 🎉
 
 This is my first post, built with **Next.js** and **MDX**!
 ## ⚡ Deployment
 
- Vercel (Recommended)
+```js
+Vercel (Recommended)
 Netlify
 GitHub Pages
 Deploy to Vercel
@@ -72,11 +85,14 @@ sh
 Copy
 Edit
 npm install -g vercel
+```
 Run the deployment:
+```js
 sh
 Copy
 Edit
 vercel
+```
 
 
 ## 🛠 Tech Stack
