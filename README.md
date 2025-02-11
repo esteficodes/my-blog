@@ -4,12 +4,12 @@ A minimalist blog built with Next.js, Tailwind CSS for writing and managing blog
 
 ## 🚀 Features
 
-✅ Next.js 15 + React
-✅ Tailwind CSS for styling
-✅ MDX support for writing blog posts
-✅ SEO-friendly with next-seo
-✅ Server-side rendering & Static Generation
-✅ Fast performance with Turbopack
+- ✅ Next.js 15 + React
+- ✅ Tailwind CSS for styling
+- ✅ MDX support for writing blog posts
+- ✅ SEO-friendly with next-seo
+- ✅ Server-side rendering & Static Generation
+- ✅ Fast performance with Turbopack
 
 ## 📂 Project Structure
 
@@ -96,10 +96,10 @@ vercel
 
 
 ## 🛠 Tech Stack
-Framework: Next.js
-Styling: Tailwind CSS
-Markdown Support: MDX
-Deployment: Vercel
+- Framework: Next.js
+- Styling: Tailwind CSS
+- Markdown Support: MDX
+- Deployment: Vercel
 
 ## 📌 To-Do List
  - [] Add more blog post templates
@@ -111,6 +111,6 @@ Deployment: Vercel
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-📧 Email: nialusby@gmail.com
-🌍 Portfolio: nialusby.vercel.app
+- 📧 Email: nialusby@gmail.com
+- 🌍 Portfolio: nialusby.vercel.app
 
