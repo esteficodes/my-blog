@@ -31,26 +31,18 @@ A minimalist blog built with Next.js, Tailwind CSS for writing and managing blog
 
 1️⃣ Clone the Repository
 
-```js sh
-Copy
-Edit
+```js 
 git clone https://github.com/yourusername/my-minimal-blog.git
 cd my-minimal-blog
 ```
 
 2️⃣ Install Dependencies
 ```js
-sh
-Copy
-Edit
 npm install  # or yarn install
 ```
 
 3️⃣ Run the Development Server
 ```js
-sh
-Copy
-Edit
 npm run dev  # or yarn dev
 ```
 Visit http://localhost:3000 in your browser.
@@ -88,9 +80,6 @@ npm install -g vercel
 ```
 Run the deployment:
 ```js
-sh
-Copy
-Edit
 vercel
 ```
 
@@ -106,6 +95,7 @@ vercel
  - [] Implement dark mode 🌙
  - [] Improve SEO metadata
  - [] Add author profile
+ - [] Add error handling
 
 ## 📜 License
 This project is licensed under the MIT License.
