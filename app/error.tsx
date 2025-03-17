@@ -21,7 +21,7 @@ export default function GlobalError({ error, reset }: ErrorPageProps) {
         style={{
           padding: "10px 20px",
           fontSize: "16px",
-          background: "black",
+          background: "blue",
           color: "white",
           border: "none",
           cursor: "pointer",
