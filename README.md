@@ -1,6 +1,7 @@
 # My Blog
 
-A minimalist blog built with Next.js, Tailwind CSS for writing and managing blog posts with a clean and modern UI.
+A minimalist blog built with Next.js, Tailwind CSS for writing and managing blog posts with a clean and modern UI. Articles will verse about diverse topics, but mainly technology.
+//test comment
 
 ## 🚀 Features
 
