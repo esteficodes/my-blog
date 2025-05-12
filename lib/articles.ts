@@ -74,3 +74,8 @@ export const getArticleData = async (id: string) => {
   };
 };
 
+export const getAllArticleSlugs = (): string[] => {
+  const fileNames = fs.readdirSync(articlesDirectory);
+  return fileNames.map((fileName) => fileName.replace(/\.md$/, ""));
+};
+
